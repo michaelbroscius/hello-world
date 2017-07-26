@@ -1,2 +1,2 @@
 # hello-world
-repository fr Github tutorial
+repository from Github tutorial
